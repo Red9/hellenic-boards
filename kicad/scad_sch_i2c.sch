@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Tue 08 Jan 2013 09:37:49 PM PST
+EESchema Schematic File Version 2  date Wed 16 Jan 2013 10:18:33 AM PST
 LIBS:srlm
 LIBS:power
 LIBS:device
@@ -30,14 +30,13 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:scad-cache
 EELAYER 27 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 2 3
 Title "Self Contained Automatic Datalogger"
-Date "5 jan 2013"
+Date "16 jan 2013"
 Rev "Beta 2"
 Comp "Red9"
 Comment1 ""

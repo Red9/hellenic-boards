@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Tue 08 Jan 2013 09:37:49 PM PST
+EESchema Schematic File Version 2  date Wed 16 Jan 2013 10:18:33 AM PST
 LIBS:srlm
 LIBS:power
 LIBS:device
@@ -30,14 +30,13 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:scad-cache
 EELAYER 27 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 3 3
 Title "Self Contained Automatic Datalogger"
-Date "5 jan 2013"
+Date "16 jan 2013"
 Rev "Beta 2"
 Comp "Red9"
 Comment1 ""
@@ -135,7 +134,7 @@ L R R11
 U 1 1 50749FCE
 P 1850 2550
 F 0 "R11" V 1950 2550 50  0000 C CNN
-F 1 "20k" V 1850 2550 50  0000 C CNN
+F 1 "10k" V 1850 2550 50  0000 C CNN
 F 2 "SM0603" V 1950 2550 50  0001 C CNN
 	1    1850 2550
 	0    -1   -1   0   
@@ -273,7 +272,7 @@ L R R12
 U 1 1 5074A03A
 P 1850 2850
 F 0 "R12" V 1930 2850 50  0000 C CNN
-F 1 "470k" V 1850 2850 50  0000 C CNN
+F 1 "100k" V 1850 2850 50  0000 C CNN
 F 2 "SM0603" V 1950 2850 50  0001 C CNN
 	1    1850 2850
 	0    -1   -1   0   

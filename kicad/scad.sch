@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Tue 08 Jan 2013 09:37:49 PM PST
+EESchema Schematic File Version 2  date Wed 16 Jan 2013 10:18:33 AM PST
 LIBS:srlm
 LIBS:power
 LIBS:device
@@ -30,14 +30,13 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:scad-cache
 EELAYER 27 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 3
 Title "Self Contained Automatic Datalogger"
-Date "5 jan 2013"
+Date "16 jan 2013"
 Rev "Beta 2"
 Comp "Red9"
 Comment1 ""
@@ -146,7 +145,7 @@ L R R2
 U 1 1 506A3267
 P 5550 4400
 F 0 "R2" V 5630 4400 50  0000 C CNN
-F 1 "10k" V 5550 4400 50  0000 C CNN
+F 1 "3k" V 5550 4400 50  0000 C CNN
 F 2 "SM0603" V 5650 4400 50  0001 C CNN
 	1    5550 4400
 	1    0    0    -1  
@@ -156,7 +155,7 @@ L R R1
 U 1 1 506A3280
 P 5350 4400
 F 0 "R1" V 5430 4400 50  0000 C CNN
-F 1 "10k" V 5350 4400 50  0000 C CNN
+F 1 "3k" V 5350 4400 50  0000 C CNN
 F 2 "SM0603" V 5450 4400 50  0001 C CNN
 	1    5350 4400
 	1    0    0    -1  
@@ -360,7 +359,7 @@ L R R8
 U 1 1 50728404
 P 8450 2500
 F 0 "R8" V 8530 2500 50  0000 C CNN
-F 1 "20k" V 8450 2500 50  0000 C CNN
+F 1 "10k" V 8450 2500 50  0000 C CNN
 F 2 "SM0603" V 8550 2500 50  0001 C CNN
 	1    8450 2500
 	-1   0    0    1   
@@ -1079,7 +1078,7 @@ L R R30
 U 1 1 50E7A3F6
 P 5750 2300
 F 0 "R30" V 5830 2300 50  0000 C CNN
-F 1 "10k" V 5750 2300 50  0000 C CNN
+F 1 "3k" V 5750 2300 50  0000 C CNN
 F 2 "SM0603" V 5850 2300 50  0001 C CNN
 	1    5750 2300
 	1    0    0    -1  
@@ -1089,7 +1088,7 @@ L R R31
 U 1 1 50E7A405
 P 5900 2300
 F 0 "R31" V 5980 2300 50  0000 C CNN
-F 1 "10k" V 5900 2300 50  0000 C CNN
+F 1 "3k" V 5900 2300 50  0000 C CNN
 F 2 "SM0603" V 6000 2300 50  0001 C CNN
 	1    5900 2300
 	1    0    0    -1  

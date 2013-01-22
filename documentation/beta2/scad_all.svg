@@ -1,0 +1,2217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="376.73999"
+   height="245.91624"
+   id="svg15378"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="scad_rev_beta.svg">
+  <defs
+     id="defs15380" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="271.86994"
+     inkscape:cy="82.198878"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1518"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata15383">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-303.05857,-663.68977)">
+    <g
+       id="g6199"
+       transform="matrix(0.009,0,0,0.009,-3.0901472,431.60045)">
+      <g
+         id="g5425"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <g
+         id="g5427"
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           id="path5429"
+           d="m 75812,49200 0,2233"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5431"
+           d="m 72450,49200 3362,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5433"
+           d="m 72450,44800 0,4400"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5435"
+           d="m 75812,44800 -3362,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5437"
+           d="m 53831,50630 0,2410"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5439"
+           d="m 56783,50630 0,2410"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5441"
+           d="m 56783,25866 0,2410"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5443"
+           d="m 53831,25866 0,2410"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5445"
+           d="m 56783,50630 a 1476,1476 0 0 0 -2952,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5447"
+           d="m 53831,28276 a 1476,1476 0 0 0 2952,0"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5449"
+           d="m 34102,27473 0,23960"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5451"
+           d="m 75812,27473 0,17327"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5453"
+           d="M 56783,53040 75812,51433"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5455"
+           d="m 34102,51433 19729,1607"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5457"
+           d="m 56783,25866 19029,1607"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path5459"
+           d="M 34102,27473 53831,25866"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g5461"
+         style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <g
+         id="g5463"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+        <polyline
+           id="polyline5465"
+           points="52703,44906 53097,44906 53097,45693 52703,45693 52703,44906 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5467"
+           points="52112,44906 52506,44906 52506,45693 52112,45693 52112,44906 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5469"
+           points="51522,44906 51916,44906 51916,45693 51522,45693 51522,44906 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5471"
+           points="50931,44906 51325,44906 51325,45693 50931,45693 50931,44906 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5473"
+           points="50341,44906 50735,44906 50735,45693 50341,45693 50341,44906 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5475"
+           points="49750,44906 50144,44906 50144,45693 49750,45693 49750,44906 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5477"
+           points="49160,44906 49554,44906 49554,45693 49160,45693 49160,44906 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5479"
+           points="48569,44906 48963,44906 48963,45693 48569,45693 48569,44906 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5481"
+           points="47979,44906 48373,44906 48373,45693 47979,45693 47979,44906 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5483"
+           points="47979,51205 48373,51205 48373,51992 47979,51992 47979,51205 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5485"
+           points="48569,51205 48963,51205 48963,51992 48569,51992 48569,51205 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5487"
+           points="49160,51205 49554,51205 49554,51992 49160,51992 49160,51205 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5489"
+           points="49750,51205 50144,51205 50144,51992 49750,51992 49750,51205 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5491"
+           points="50341,51205 50735,51205 50735,51992 50341,51992 50341,51205 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5493"
+           points="50931,51205 51325,51205 51325,51992 50931,51992 50931,51205 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5495"
+           points="51522,51205 51916,51205 51916,51992 51522,51992 51522,51205 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5497"
+           points="52112,51205 52506,51205 52506,51992 52112,51992 52112,51205 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5499"
+           points="52703,51205 53097,51205 53097,51992 52703,51992 52703,51205 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5501"
+           points="47388,44906 47782,44906 47782,45693 47388,45693 47388,44906 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5503"
+           points="47388,51205 47782,51205 47782,51992 47388,51992 47388,51205 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5505"
+           points="69535,37697 69063,37697 69063,37421 69535,37421 69535,37697 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5507"
+           points="69535,38130 69063,38130 69063,37854 69535,37854 69535,38130 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5509"
+           points="69535,38563 69063,38563 69063,38287 69535,38287 69535,38563 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5511"
+           points="69535,38996 69063,38996 69063,38720 69535,38720 69535,38996 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5513"
+           points="69535,39429 69063,39429 69063,39153 69535,39153 69535,39429 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5515"
+           points="69535,39862 69063,39862 69063,39586 69535,39586 69535,39862 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5517"
+           points="69535,40295 69063,40295 69063,40019 69535,40019 69535,40295 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5519"
+           points="69535,40728 69063,40728 69063,40452 69535,40452 69535,40728 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5521"
+           points="69535,41162 69063,41162 69063,40886 69535,40886 69535,41162 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5523"
+           points="69535,37146 69063,37146 69063,36752 69535,36752 69535,37146 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5525"
+           points="71228,41536 70756,41536 70756,41142 71228,41142 71228,41536 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5527"
+           points="73591,41536 73276,41536 73276,41142 73591,41142 73591,41536 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5529"
+           points="75617,41536 74515,41536 74515,41142 75617,41142 75617,41536 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5531"
+           points="75618,36280 74870,36280 74870,35768 75618,35768 75618,36280 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5533"
+           points="75618,36495 75480,36495 75480,36200 75618,36200 75618,36495 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5535"
+           points="75536,36279 75480,36334 75424,36279 75480,36223 75536,36279 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5537"
+           points="62285,40925 62285,41525 62125,41525 62125,40925 62285,40925 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5539"
+           points="62600,40925 62600,41525 62440,41525 62440,40925 62600,40925 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5541"
+           points="62915,40925 62915,41525 62755,41525 62755,40925 62915,40925 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5543"
+           points="63230,40925 63230,41525 63070,41525 63070,40925 63230,40925 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5545"
+           points="63545,40925 63545,41525 63385,41525 63385,40925 63545,40925 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5547"
+           points="63860,40925 63860,41525 63700,41525 63700,40925 63860,40925 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5549"
+           points="61970,40925 61970,41525 61810,41525 61810,40925 61970,40925 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5551"
+           points="61655,40925 61655,41525 61495,41525 61495,40925 61655,40925 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5553"
+           points="61340,40925 61340,41525 61180,41525 61180,40925 61340,40925 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5555"
+           points="61025,40925 61025,41525 60865,41525 60865,40925 61025,40925 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5557"
+           points="60710,40925 60710,41525 60550,41525 60550,40925 60710,40925 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5559"
+           points="62285,36425 62285,37025 62125,37025 62125,36425 62285,36425 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5561"
+           points="62600,36425 62600,37025 62440,37025 62440,36425 62600,36425 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5563"
+           points="62915,36425 62915,37025 62755,37025 62755,36425 62915,36425 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5565"
+           points="63230,36425 63230,37025 63070,37025 63070,36425 63230,36425 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5567"
+           points="63545,36425 63545,37025 63385,37025 63385,36425 63545,36425 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5569"
+           points="63860,36425 63860,37025 63700,37025 63700,36425 63860,36425 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5571"
+           points="61970,36425 61970,37025 61810,37025 61810,36425 61970,36425 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5573"
+           points="61655,36425 61655,37025 61495,37025 61495,36425 61655,36425 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5575"
+           points="61340,36425 61340,37025 61180,37025 61180,36425 61340,36425 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5577"
+           points="61025,36425 61025,37025 60865,37025 60865,36425 61025,36425 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5579"
+           points="60710,36425 60710,37025 60550,37025 60550,36425 60710,36425 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5581"
+           points="64755,38895 64755,39055 64155,39055 64155,38895 64755,38895 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5583"
+           points="60255,38895 60255,39055 59655,39055 59655,38895 60255,38895 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5585"
+           points="64755,38580 64755,38740 64155,38740 64155,38580 64755,38580 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5587"
+           points="60255,38580 60255,38740 59655,38740 59655,38580 60255,38580 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5589"
+           points="60255,38265 60255,38425 59655,38425 59655,38265 60255,38265 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5591"
+           points="64755,38265 64755,38425 64155,38425 64155,38265 64755,38265 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5593"
+           points="64755,37950 64755,38110 64155,38110 64155,37950 64755,37950 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5595"
+           points="60255,37950 60255,38110 59655,38110 59655,37950 60255,37950 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5597"
+           points="60255,37635 60255,37795 59655,37795 59655,37635 60255,37635 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5599"
+           points="64755,37635 64755,37795 64155,37795 64155,37635 64755,37635 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5601"
+           points="64755,37320 64755,37480 64155,37480 64155,37320 64755,37320 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5603"
+           points="60255,37320 60255,37480 59655,37480 59655,37320 60255,37320 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5605"
+           points="60255,39210 60255,39370 59655,39370 59655,39210 60255,39210 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5607"
+           points="64755,39210 64755,39370 64155,39370 64155,39210 64755,39210 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5609"
+           points="64755,39525 64755,39685 64155,39685 64155,39525 64755,39525 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5611"
+           points="60255,39525 60255,39685 59655,39685 59655,39525 60255,39525 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5613"
+           points="60255,39840 60255,40000 59655,40000 59655,39840 60255,39840 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5615"
+           points="64755,39840 64755,40000 64155,40000 64155,39840 64755,39840 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5617"
+           points="64755,40155 64755,40315 64155,40315 64155,40155 64755,40155 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5619"
+           points="60255,40155 60255,40315 59655,40315 59655,40155 60255,40155 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5621"
+           points="60255,40470 60255,40630 59655,40630 59655,40470 60255,40470 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5623"
+           points="64755,40470 64755,40630 64155,40630 64155,40470 64755,40470 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5625"
+           points="68550,29370 69050,29370 69050,29530 68550,29530 68550,29370 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5627"
+           points="68550,29620 69050,29620 69050,29780 68550,29780 68550,29620 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5629"
+           points="68550,29880 69050,29880 69050,30040 68550,30040 68550,29880 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5631"
+           points="68550,30140 69050,30140 69050,30300 68550,30300 68550,30140 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5633"
+           points="68550,30390 69050,30390 69050,30550 68550,30550 68550,30390 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5635"
+           points="68550,30650 69050,30650 69050,30810 68550,30810 68550,30650 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5637"
+           points="68550,30910 69050,30910 69050,31070 68550,31070 68550,30910 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5639"
+           points="68550,31160 69050,31160 69050,31320 68550,31320 68550,31160 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5641"
+           points="68550,31420 69050,31420 69050,31580 68550,31580 68550,31420 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5643"
+           points="68550,31670 69050,31670 69050,31830 68550,31830 68550,31670 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5645"
+           points="68550,31930 69050,31930 69050,32090 68550,32090 68550,31930 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5647"
+           points="68550,32190 69050,32190 69050,32350 68550,32350 68550,32190 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5649"
+           points="68550,32440 69050,32440 69050,32600 68550,32600 68550,32440 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5651"
+           points="68550,32700 69050,32700 69050,32860 68550,32860 68550,32700 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5653"
+           points="71350,32700 71850,32700 71850,32860 71350,32860 71350,32700 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5655"
+           points="71350,32440 71850,32440 71850,32600 71350,32600 71350,32440 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5657"
+           points="71350,32200 71850,32200 71850,32360 71350,32360 71350,32200 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5659"
+           points="71350,31930 71850,31930 71850,32090 71350,32090 71350,31930 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5661"
+           points="71350,31670 71850,31670 71850,31830 71350,31830 71350,31670 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5663"
+           points="71350,31420 71850,31420 71850,31580 71350,31580 71350,31420 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5665"
+           points="71350,31160 71850,31160 71850,31320 71350,31320 71350,31160 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5667"
+           points="71350,30910 71850,30910 71850,31070 71350,31070 71350,30910 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5669"
+           points="71350,30650 71850,30650 71850,30810 71350,30810 71350,30650 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5671"
+           points="71350,30390 71850,30390 71850,30550 71350,30550 71350,30390 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5673"
+           points="71350,30140 71850,30140 71850,30300 71350,30300 71350,30140 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5675"
+           points="71350,29880 71850,29880 71850,30040 71350,30040 71350,29880 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5677"
+           points="71350,29620 71850,29620 71850,29780 71350,29780 71350,29620 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5679"
+           points="71350,29370 71850,29370 71850,29530 71350,29530 71350,29370 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5681"
+           points="71050,34600 71050,35400 70450,35400 70450,34600 71050,34600 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5683"
+           points="69750,34600 69750,35400 69150,35400 69150,34600 69750,34600 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5685"
+           points="60400,45350 61200,45350 61200,45950 60400,45950 60400,45350 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5687"
+           points="60400,46650 61200,46650 61200,47250 60400,47250 60400,46650 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5689"
+           points="71725,28725 71275,28725 71275,28475 71725,28475 71725,28725 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5691"
+           points="71725,28125 71275,28125 71275,27875 71725,27875 71725,28125 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5693"
+           points="60225,51375 60225,51825 59975,51825 59975,51375 60225,51375 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5695"
+           points="59625,51375 59625,51825 59375,51825 59375,51375 59625,51375 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5697"
+           points="57175,49775 57625,49775 57625,50025 57175,50025 57175,49775 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5699"
+           points="57175,50375 57625,50375 57625,50625 57175,50625 57175,50375 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5701"
+           points="62575,51525 62575,51075 62825,51075 62825,51525 62575,51525 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5703"
+           points="63175,51525 63175,51075 63425,51075 63425,51525 63175,51525 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5705"
+           points="58675,47225 58675,46775 58925,46775 58925,47225 58675,47225 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5707"
+           points="59275,47225 59275,46775 59525,46775 59525,47225 59275,47225 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5709"
+           points="63675,29875 64125,29875 64125,30125 63675,30125 63675,29875 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5711"
+           points="63675,30475 64125,30475 64125,30725 63675,30725 63675,30475 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5713"
+           points="63525,34775 63525,35225 63275,35225 63275,34775 63525,34775 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5715"
+           points="62925,34775 62925,35225 62675,35225 62675,34775 62925,34775 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5717"
+           points="63875,35225 63875,34775 64125,34775 64125,35225 63875,35225 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5719"
+           points="64475,35225 64475,34775 64725,34775 64725,35225 64475,35225 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5721"
+           points="68675,33825 68675,33375 68925,33375 68925,33825 68675,33825 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5723"
+           points="69275,33825 69275,33375 69525,33375 69525,33825 69275,33825 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5725"
+           points="70825,33375 70825,33825 70575,33825 70575,33375 70825,33375 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5727"
+           points="70225,33375 70225,33825 69975,33825 69975,33375 70225,33375 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5729"
+           points="67425,30725 66975,30725 66975,30475 67425,30475 67425,30725 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5731"
+           points="67425,30125 66975,30125 66975,29875 67425,29875 67425,30125 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5733"
+           points="60913,50225 60913,49775 61163,49775 61163,50225 60913,50225 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5735"
+           points="61513,50225 61513,49775 61763,49775 61763,50225 61513,50225 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5737"
+           points="58925,39525 58475,39525 58475,39275 58925,39275 58925,39525 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5739"
+           points="58925,38925 58475,38925 58475,38675 58925,38675 58925,38925 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5741"
+           points="61621,36052 61621,35602 61871,35602 61871,36052 61621,36052 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5743"
+           points="62221,36052 62221,35602 62471,35602 62471,36052 62221,36052 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5745"
+           points="65130,38235 65580,38235 65580,38485 65130,38485 65130,38235 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5747"
+           points="65130,38835 65580,38835 65580,39085 65130,39085 65130,38835 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5749"
+           points="62786,41900 62786,42350 62536,42350 62536,41900 62786,41900 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5751"
+           points="62186,41900 62186,42350 61936,42350 61936,41900 62186,41900 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5753"
+           points="67875,38725 68325,38725 68325,38975 67875,38975 67875,38725 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5755"
+           points="67875,39325 68325,39325 68325,39575 67875,39575 67875,39325 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5757"
+           points="54475,46675 54925,46675 54925,46925 54475,46925 54475,46675 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5759"
+           points="54475,47275 54925,47275 54925,47525 54475,47525 54475,47275 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5761"
+           points="58675,46425 58675,45975 58925,45975 58925,46425 58675,46425 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5763"
+           points="59275,46425 59275,45975 59525,45975 59525,46425 59275,46425 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5765"
+           points="60913,51012 60913,50562 61163,50562 61163,51012 60913,51012 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5767"
+           points="61513,51012 61513,50562 61763,50562 61763,51012 61513,51012 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5769"
+           points="53675,46675 54125,46675 54125,46925 53675,46925 53675,46675 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5771"
+           points="53675,47275 54125,47275 54125,47525 53675,47525 53675,47275 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5773"
+           points="60913,51799 60913,51349 61163,51349 61163,51799 60913,51799 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5775"
+           points="61513,51799 61513,51349 61763,51349 61763,51799 61513,51799 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5777"
+           points="63275,42675 63725,42675 63725,42925 63275,42925 63275,42675 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5779"
+           points="63275,43275 63725,43275 63725,43525 63275,43525 63275,43275 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5781"
+           points="69875,42075 70325,42075 70325,42325 69875,42325 69875,42075 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5783"
+           points="69875,42675 70325,42675 70325,42925 69875,42925 69875,42675 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5785"
+           points="65075,35225 65075,34775 65325,34775 65325,35225 65075,35225 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5787"
+           points="65675,35225 65675,34775 65925,34775 65925,35225 65675,35225 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5789"
+           points="66875,36775 67325,36775 67325,37025 66875,37025 66875,36775 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5791"
+           points="66875,37375 67325,37375 67325,37625 66875,37625 66875,37375 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5793"
+           points="67675,36775 68125,36775 68125,37025 67675,37025 67675,36775 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5795"
+           points="67675,37375 68125,37375 68125,37625 67675,37625 67675,37375 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5797"
+           points="67075,27825 67075,27375 67325,27375 67325,27825 67075,27825 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5799"
+           points="67675,27825 67675,27375 67925,27375 67925,27825 67675,27825 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5801"
+           points="67775,29875 68225,29875 68225,30125 67775,30125 67775,29875 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5803"
+           points="67775,30475 68225,30475 68225,30725 67775,30725 67775,30475 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5805"
+           points="67325,39125 66875,39125 66875,38875 67325,38875 67325,39125 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5807"
+           points="67325,38525 66875,38525 66875,38275 67325,38275 67325,38525 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5809"
+           points="68325,34775 68325,35225 68075,35225 68075,34775 68325,34775 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5811"
+           points="67725,34775 67725,35225 67475,35225 67475,34775 67725,34775 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5813"
+           points="66275,35225 66275,34775 66525,34775 66525,35225 66275,35225 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5815"
+           points="66875,35225 66875,34775 67125,34775 67125,35225 66875,35225 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5817"
+           points="72575,42725 72575,42275 72825,42275 72825,42725 72575,42725 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5819"
+           points="73175,42725 73175,42275 73425,42275 73425,42725 73175,42725 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5821"
+           points="70475,27875 70925,27875 70925,28125 70475,28125 70475,27875 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5823"
+           points="70475,28475 70925,28475 70925,28725 70475,28725 70475,28475 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5825"
+           points="72075,27875 72525,27875 72525,28125 72075,28125 72075,27875 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5827"
+           points="72075,28475 72525,28475 72525,28725 72075,28725 72075,28475 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5829"
+           points="73425,43075 73425,43525 73175,43525 73175,43075 73425,43075 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5831"
+           points="72825,43075 72825,43525 72575,43525 72575,43075 72825,43075 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5833"
+           points="73075,28775 73075,28325 73325,28325 73325,28775 73075,28775 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5835"
+           points="73675,28775 73675,28325 73925,28325 73925,28775 73675,28775 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5837"
+           points="73075,29625 73075,29175 73325,29175 73325,29625 73075,29625 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5839"
+           points="73675,29625 73675,29175 73925,29175 73925,29625 73675,29625 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5841"
+           points="67375,41225 67375,40775 67625,40775 67625,41225 67375,41225 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5843"
+           points="67975,41225 67975,40775 68225,40775 68225,41225 67975,41225 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5845"
+           points="68225,39975 68225,40425 67975,40425 67975,39975 68225,39975 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5847"
+           points="67625,39975 67625,40425 67375,40425 67375,39975 67625,39975 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5849"
+           points="56575,48025 56575,47575 56825,47575 56825,48025 56575,48025 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5851"
+           points="57175,48025 57175,47575 57425,47575 57425,48025 57175,48025 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5853"
+           points="65925,35775 65925,36225 65675,36225 65675,35775 65925,35775 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5855"
+           points="65325,35775 65325,36225 65075,36225 65075,35775 65325,35775 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5857"
+           points="67125,35775 67125,36225 66875,36225 66875,35775 67125,35775 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5859"
+           points="66525,35775 66525,36225 66275,36225 66275,35775 66525,35775 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5861"
+           points="56575,48825 56575,48375 56825,48375 56825,48825 56575,48825 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5863"
+           points="57175,48825 57175,48375 57425,48375 57425,48825 57175,48825 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5865"
+           points="66525,30725 66075,30725 66075,30475 66525,30475 66525,30725 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5867"
+           points="66525,30125 66075,30125 66075,29875 66525,29875 66525,30125 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5869"
+           points="66525,40825 66075,40825 66075,40575 66525,40575 66525,40825 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5871"
+           points="66525,40225 66075,40225 66075,39975 66525,39975 66525,40225 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5873"
+           points="70875,43525 70875,43075 71125,43075 71125,43525 70875,43525 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5875"
+           points="71475,43525 71475,43075 71725,43075 71725,43525 71475,43525 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5877"
+           points="66525,39125 66075,39125 66075,38875 66525,38875 66525,39125 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5879"
+           points="66525,38525 66075,38525 66075,38275 66525,38275 66525,38525 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5881"
+           points="70875,44325 70875,43875 71125,43875 71125,44325 70875,44325 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5883"
+           points="71475,44325 71475,43875 71725,43875 71725,44325 71475,44325 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5885"
+           points="64475,29875 64925,29875 64925,30125 64475,30125 64475,29875 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5887"
+           points="64475,30475 64925,30475 64925,30725 64475,30725 64475,30475 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5889"
+           points="59525,45175 59525,45625 59275,45625 59275,45175 59525,45175 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5891"
+           points="58925,45175 58925,45625 58675,45625 58675,45175 58925,45175 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5893"
+           points="71725,42275 71725,42725 71475,42725 71475,42275 71725,42275 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5895"
+           points="71125,42275 71125,42725 70875,42725 70875,42275 71125,42275 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5897"
+           points="58675,42025 58675,41575 58925,41575 58925,42025 58675,42025 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5899"
+           points="59275,42025 59275,41575 59525,41575 59525,42025 59275,42025 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5901"
+           points="66449,32909 66803,32909 66803,34090 66449,34090 66449,32909 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5903"
+           points="67197,32909 67551,32909 67551,34090 67197,34090 67197,32909 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5905"
+           points="66449,31409 66803,31409 66803,32590 66449,32590 66449,31409 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5907"
+           points="67197,31409 67551,31409 67551,32590 67197,32590 67197,31409 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5909"
+           points="64283,42518 64283,42282 64716,42282 64716,42518 64283,42518 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5911"
+           points="64283,43010 64283,42774 64716,42774 64716,43010 64283,43010 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5913"
+           points="64283,43502 64283,43266 64716,43266 64716,43502 64283,43502 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5915"
+           points="64283,43994 64283,43758 64716,43758 64716,43994 64283,43994 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5917"
+           points="65149,42518 65149,42282 65582,42282 65582,42518 65149,42518 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5919"
+           points="65149,43010 65149,42774 65582,42774 65582,43010 65149,43010 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5921"
+           points="65149,43502 65149,43266 65582,43266 65582,43502 65149,43502 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5923"
+           points="65149,43994 65149,43758 65582,43758 65582,43994 65149,43994 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5925"
+           points="58657,47938 58657,47781 58775,47781 58775,47938 58657,47938 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5927"
+           points="59425,47938 59425,47781 59543,47781 59543,47938 59425,47938 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5929"
+           points="59169,47938 59169,47781 59287,47781 59287,47938 59169,47938 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5931"
+           points="58913,47938 58913,47781 59031,47781 59031,47938 58913,47938 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5933"
+           points="58657,49218 58657,49061 58775,49061 58775,49218 58657,49218 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5935"
+           points="58913,49218 58913,49061 59031,49061 59031,49218 58913,49218 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5937"
+           points="59169,49218 59169,49061 59287,49061 59287,49218 59169,49218 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5939"
+           points="59425,49218 59425,49061 59543,49061 59543,49218 59425,49218 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5941"
+           points="59661,48431 59661,48313 59818,48313 59818,48431 59661,48431 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5943"
+           points="59661,48175 59661,48057 59818,48057 59818,48175 59661,48175 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5945"
+           points="59661,48687 59661,48569 59818,48569 59818,48687 59661,48687 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5947"
+           points="59661,48943 59661,48825 59818,48825 59818,48943 59661,48943 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5949"
+           points="58381,48175 58381,48057 58538,48057 58538,48175 58381,48175 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5951"
+           points="58381,48431 58381,48313 58538,48313 58538,48431 58381,48431 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5953"
+           points="58381,48687 58381,48569 58538,48569 58538,48687 58381,48687 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5955"
+           points="58381,48943 58381,48825 58538,48825 58538,48943 58381,48943 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5957"
+           points="59985,50655 59985,50970 59788,50970 59788,50655 59985,50655 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5959"
+           points="59670,50655 59670,50970 59473,50970 59473,50655 59670,50655 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5961"
+           points="59355,50655 59355,50970 59158,50970 59158,50655 59355,50655 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5963"
+           points="59041,50655 59041,50970 58844,50970 58844,50655 59041,50655 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5965"
+           points="58726,50655 58726,50970 58529,50970 58529,50655 58726,50655 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5967"
+           points="58411,50655 58411,50970 58214,50970 58214,50655 58411,50655 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5969"
+           points="59985,49829 59985,50144 59788,50144 59788,49829 59985,49829 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5971"
+           points="59670,49829 59670,50144 59473,50144 59473,49829 59670,49829 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5973"
+           points="59355,49829 59355,50144 59158,50144 59158,49829 59355,49829 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5975"
+           points="59041,49829 59041,50144 58844,50144 58844,49829 59041,49829 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5977"
+           points="58726,49829 58726,50144 58529,50144 58529,49829 58726,49829 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5979"
+           points="58411,49829 58411,50144 58214,50144 58214,49829 58411,49829 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5981"
+           points="60044,50301 60044,50498 59729,50498 59729,50301 60044,50301 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5983"
+           points="58470,50301 58470,50498 58155,50498 58155,50301 58470,50301 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5985"
+           points="75452,28393 75452,28707 75138,28707 75138,28393 75452,28393 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5987"
+           points="74862,28393 74862,28707 74548,28707 74548,28393 74862,28393 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5989"
+           points="75452,29243 75452,29557 75138,29557 75138,29243 75452,29243 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5991"
+           points="74862,29243 74862,29557 74548,29557 74548,29243 74862,29243 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5993"
+           points="64449,49139 63650,49139 63650,48340 64449,48340 64449,49139 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5995"
+           points="64449,47399 63650,47399 63650,46600 64449,46600 64449,47399 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5997"
+           points="64449,45659 63650,45659 63650,44860 64449,44860 64449,45659 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline5999"
+           points="72268,49139 71469,49139 71469,48340 72268,48340 72268,49139 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6001"
+           points="72268,45659 71469,45659 71469,44860 72268,44860 72268,45659 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6003"
+           points="58501,43432 59013,43432 59013,43668 58501,43668 58501,43432 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6005"
+           points="58491,43932 59003,43932 59003,44168 58491,44168 58491,43932 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6007"
+           points="58491,44432 59003,44432 59003,44668 58491,44668 58491,44432 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6009"
+           points="58491,42932 59003,42932 59003,43168 58491,43168 58491,42932 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6011"
+           points="60597,42932 61109,42932 61109,43168 60597,43168 60597,42932 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6013"
+           points="60597,43432 61109,43432 61109,43668 60597,43668 60597,43432 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6015"
+           points="60597,44432 61109,44432 61109,44668 60597,44668 60597,44432 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6017"
+           points="60597,43932 61109,43932 61109,44168 60597,44168 60597,43932 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6019"
+           points="67028,28723 67028,28487 67264,28487 67264,28723 67028,28723 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6021"
+           points="67028,29313 67028,29077 67264,29077 67264,29313 67028,29313 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6023"
+           points="67736,29313 67736,29077 67972,29077 67972,29313 67736,29313 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6025"
+           points="67736,28723 67736,28487 67972,28487 67972,28723 67736,28723 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6027"
+           points="67028,28978 67028,28821 67264,28821 67264,28978 67028,28978 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6029"
+           points="67736,28978 67736,28821 67972,28821 67972,28978 67736,28978 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6031"
+           points="62472,50754 62472,50636 62748,50636 62748,50754 62472,50754 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6033"
+           points="62472,50557 62472,50439 62748,50439 62748,50557 62472,50557 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6035"
+           points="62472,50361 62472,50243 62748,50243 62748,50361 62472,50361 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6037"
+           points="62472,50164 62472,50046 62748,50046 62748,50164 62472,50164 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6039"
+           points="63252,50164 63252,50046 63528,50046 63528,50164 63252,50164 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6041"
+           points="63252,50361 63252,50243 63528,50243 63528,50361 63252,50361 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6043"
+           points="63252,50557 63252,50439 63528,50439 63528,50557 63252,50557 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6045"
+           points="63252,50754 63252,50636 63528,50636 63528,50754 63252,50754 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6047"
+           points="62905,50608 62905,50191 63094,50191 63094,50608 62905,50608 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6049"
+           points="61109,28682 61109,26517 61503,26517 61503,28682 61109,28682 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6051"
+           points="61897,28682 61897,26517 62291,26517 62291,28682 61897,28682 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6053"
+           points="62527,29076 62527,27895 63157,27895 63157,29076 62527,29076 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6055"
+           points="60204,29076 60204,27895 60834,27895 60834,29076 60204,29076 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6057"
+           points="56096,44727 56844,44727 56844,45239 56096,45239 56096,44727 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6059"
+           points="57356,44727 58104,44727 58104,45239 57356,45239 57356,44727 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6061"
+           points="57356,42561 58104,42561 58104,43073 57356,43073 57356,42561 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6063"
+           points="56096,42561 56844,42561 56844,43073 56096,43073 56096,42561 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6065"
+           points="57716,42086 56929,42086 56929,39921 57716,39921 57716,42086 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6067"
+           points="57716,38346 56929,38346 56929,36181 57716,36181 57716,38346 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6069"
+           points="69200,28450 68900,28450 68900,28150 69200,28150 69200,28450 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6071"
+           points="70100,28075 69800,28075 69800,27775 70100,27775 70100,28075 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6073"
+           points="70100,28825 69800,28825 69800,28525 70100,28525 70100,28825 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6075"
+           points="58012,31512 59587,31512 59587,33087 58012,33087 58012,31512 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6077"
+           points="58091,28481 59508,28481 59508,29858 58091,29858 58091,28481 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6079"
+           points="58091,34741 59508,34741 59508,36119 58091,36119 58091,34741 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6081"
+           points="66643,42368 66643,42132 67509,42132 67509,42368 66643,42368 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6083"
+           points="66643,42868 66643,42632 67509,42632 67509,42868 66643,42868 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6085"
+           points="66643,43368 66643,43132 67509,43132 67509,43368 66643,43368 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6087"
+           points="66643,43868 66643,43632 67509,43632 67509,43868 66643,43868 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6089"
+           points="68691,43868 68691,43632 69557,43632 69557,43868 68691,43868 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6091"
+           points="68691,43368 68691,43132 69557,43132 69557,43368 68691,43368 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6093"
+           points="68691,42868 68691,42632 69557,42632 69557,42868 68691,42868 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6095"
+           points="68691,42368 68691,42132 69557,42132 69557,42368 68691,42368 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6097"
+           points="63832,32267 63832,32188 63989,32188 63989,32267 63832,32267 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6099"
+           points="63832,32424 63832,32345 63989,32345 63989,32424 63832,32424 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6101"
+           points="63832,32582 63832,32503 63989,32503 63989,32582 63832,32582 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6103"
+           points="63832,32739 63832,32660 63989,32660 63989,32739 63832,32739 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6105"
+           points="63832,32897 63832,32818 63989,32818 63989,32897 63832,32897 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6107"
+           points="63832,33054 63832,32975 63989,32975 63989,33054 63832,33054 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6109"
+           points="63832,33211 63832,33132 63989,33132 63989,33211 63832,33211 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6111"
+           points="64166,33467 64087,33467 64087,33310 64166,33310 64166,33467 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6113"
+           points="64324,33467 64245,33467 64245,33310 64324,33310 64324,33467 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6115"
+           points="64481,33467 64402,33467 64402,33310 64481,33310 64481,33467 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6117"
+           points="64639,33467 64560,33467 64560,33310 64639,33310 64639,33467 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6119"
+           points="64796,33467 64717,33467 64717,33310 64796,33310 64796,33467 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6121"
+           points="64954,33467 64875,33467 64875,33310 64954,33310 64954,33467 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6123"
+           points="65111,33467 65032,33467 65032,33310 65111,33310 65111,33467 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6125"
+           points="65210,32267 65210,32188 65367,32188 65367,32267 65210,32267 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6127"
+           points="65210,32424 65210,32345 65367,32345 65367,32424 65210,32424 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6129"
+           points="65210,32582 65210,32503 65367,32503 65367,32582 65210,32582 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6131"
+           points="65210,32739 65210,32660 65367,32660 65367,32739 65210,32739 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6133"
+           points="65210,32897 65210,32818 65367,32818 65367,32897 65210,32897 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6135"
+           points="65210,33054 65210,32975 65367,32975 65367,33054 65210,33054 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6137"
+           points="65210,33212 65210,33133 65367,33133 65367,33212 65210,33212 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6139"
+           points="64166,32089 64087,32089 64087,31932 64166,31932 64166,32089 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6141"
+           points="64324,32089 64245,32089 64245,31932 64324,31932 64324,32089 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6143"
+           points="64481,32089 64402,32089 64402,31932 64481,31932 64481,32089 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6145"
+           points="64639,32089 64560,32089 64560,31932 64639,31932 64639,32089 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6147"
+           points="64796,32089 64717,32089 64717,31932 64796,31932 64796,32089 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6149"
+           points="64953,32089 64874,32089 64874,31932 64953,31932 64953,32089 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6151"
+           points="65111,32089 65032,32089 65032,31932 65111,31932 65111,32089 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6153"
+           points="64147,32522 64147,32247 64422,32247 64422,32522 64147,32522 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6155"
+           points="64777,32522 64777,32247 65052,32247 65052,32522 64777,32522 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6157"
+           points="64481,32818 64481,32581 64718,32581 64718,32818 64481,32818 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6159"
+           points="64147,33152 64147,32877 64422,32877 64422,33152 64147,33152 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6161"
+           points="64777,33152 64777,32877 65052,32877 65052,33152 64777,33152 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6163"
+           points="73659,32677 72773,32677 72773,32480 73659,32480 73659,32677 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6165"
+           points="73659,32362 72773,32362 72773,32165 73659,32165 73659,32362 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6167"
+           points="73659,32047 72773,32047 72773,31850 73659,31850 73659,32047 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6169"
+           points="73659,32992 72773,32992 72773,32795 73659,32795 73659,32992 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6171"
+           points="73659,33307 72773,33307 72773,33110 73659,33110 73659,33307 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6173"
+           points="73905,31043 72527,31043 72527,30236 73905,30236 73905,31043 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6175"
+           points="73905,34921 72527,34921 72527,34114 73905,34114 73905,34921 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6177"
+           points="75677,31043 74102,31043 74102,30236 75677,30236 75677,31043 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6179"
+           points="75677,34921 74102,34921 74102,34114 75677,34114 75677,34921 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6181"
+           points="72125,33375 72125,33825 71875,33825 71875,33375 72125,33375 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6183"
+           points="71525,33375 71525,33825 71275,33825 71275,33375 71525,33375 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6185"
+           points="70325,44225 69875,44225 69875,43975 70325,43975 70325,44225 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6187"
+           points="70325,43625 69875,43625 69875,43375 70325,43375 70325,43625 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6189"
+           points="65275,41625 65275,41175 65525,41175 65525,41625 65275,41625 "
+           style="fill-rule:evenodd" />
+        <polyline
+           id="polyline6191"
+           points="65875,41625 65875,41175 66125,41175 66125,41625 65875,41625 "
+           style="fill-rule:evenodd" />
+      </g>
+    </g>
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R24"
+       width="4.2402644"
+       height="7.835907"
+       x="606.71765"
+       y="700.34998" />
+    <rect
+       y="700.40656"
+       x="599.50995"
+       height="7.835907"
+       width="4.2402644"
+       id="C24"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       inkscape:label="#C24" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R22"
+       width="4.2402644"
+       height="7.835907"
+       x="591.40607"
+       y="700.34406" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C14"
+       width="4.2402644"
+       height="7.835907"
+       x="479.80844"
+       y="851.56671" />
+    <rect
+       y="851.57825"
+       x="486.99304"
+       height="7.835907"
+       width="4.2402644"
+       id="C13"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-568.64404"
+       x="744.47943"
+       height="7.835907"
+       width="4.2402644"
+       id="C22"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C16"
+       width="4.2402644"
+       height="7.835907"
+       x="511.29672"
+       y="879.47687" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-634.34338"
+       x="731.84839"
+       height="7.835907"
+       width="4.2402644"
+       id="C25"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R6"
+       width="4.2402644"
+       height="7.835907"
+       x="598.59753"
+       y="775.98083" />
+    <rect
+       y="776.00031"
+       x="591.39825"
+       height="7.835907"
+       width="4.2402644"
+       id="R7"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C11"
+       width="4.2402644"
+       height="7.835907"
+       x="582.8905"
+       y="775.62537" />
+    <rect
+       y="810.22687"
+       x="625.57019"
+       height="7.835907"
+       width="4.2402644"
+       id="C6"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C5"
+       width="4.2402644"
+       height="7.835907"
+       x="566.1991"
+       y="815.59015" />
+    <rect
+       y="779.57843"
+       x="522.97638"
+       height="7.835907"
+       width="4.2402644"
+       id="C9"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R3"
+       width="4.2402644"
+       height="7.835907"
+       x="605.80457"
+       y="762.5061" />
+    <rect
+       y="762.48303"
+       x="598.61517"
+       height="7.835907"
+       width="4.2402644"
+       id="R4"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C8"
+       width="4.2402644"
+       height="7.835907"
+       x="607.61523"
+       y="779.99567" />
+    <rect
+       y="791.26764"
+       x="591.40979"
+       height="7.835907"
+       width="4.2402644"
+       id="R13"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C23"
+       width="4.2402644"
+       height="7.835907"
+       x="731.85748"
+       y="-622.59332"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-662.20056"
+       x="686.46448"
+       height="7.835907"
+       width="4.2402644"
+       id="R26"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C20"
+       width="4.2402644"
+       height="7.835907"
+       x="569.7074"
+       y="700.40656" />
+    <rect
+       y="700.35596"
+       x="577.00079"
+       height="7.835907"
+       width="4.2402644"
+       id="R23"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R29"
+       width="4.2402644"
+       height="7.835907"
+       x="677.84235"
+       y="-608.26196"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       y="682.43408"
+       x="645.40564"
+       height="7.835907"
+       width="4.2402644"
+       id="R27"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C26"
+       width="4.2402644"
+       height="7.835907"
+       x="638.21356"
+       y="682.34784" />
+    <rect
+       y="682.35217"
+       x="630.98584"
+       height="7.835907"
+       width="4.2402644"
+       id="R28"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="D2"
+       width="4.2402644"
+       height="7.835907"
+       x="686.47205"
+       y="-675.66718"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-675.74158"
+       x="693.97937"
+       height="7.835907"
+       width="4.2402644"
+       id="D1"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R25"
+       width="4.2402644"
+       height="7.835907"
+       x="694.06934"
+       y="-662.21991"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R8"
+       width="4.2402644"
+       height="7.835907"
+       x="798.4903"
+       y="-610.92688"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-538.94257"
+       x="893.89081"
+       height="7.835907"
+       width="4.2402644"
+       id="C17"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C18"
+       width="4.2402644"
+       height="7.835907"
+       x="891.19305"
+       y="-567.72699"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-552.77832"
+       x="893.63477"
+       height="7.835907"
+       width="4.2402644"
+       id="C4"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C3"
+       width="4.2402644"
+       height="7.835907"
+       x="886.58582"
+       y="-552.78943"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-552.75623"
+       x="879.48163"
+       height="7.835907"
+       width="4.2402644"
+       id="C1"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       inkscape:label="#C1" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R1"
+       width="4.2402644"
+       height="7.835907"
+       x="866.89453"
+       y="-513.73279"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-513.73474"
+       x="859.68591"
+       height="7.835907"
+       width="4.2402644"
+       id="R2"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C12"
+       width="4.2402644"
+       height="7.835907"
+       x="808.60516"
+       y="-561.9707"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-532.62848"
+       x="805.66949"
+       height="7.835907"
+       width="4.2402644"
+       id="R10"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C15"
+       width="4.2402644"
+       height="7.835907"
+       x="852.48993"
+       y="-532.6037"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-532.62573"
+       x="845.27527"
+       height="7.835907"
+       width="4.2402644"
+       id="C2"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R9"
+       width="4.2402644"
+       height="7.835907"
+       x="838.0827"
+       y="-532.63684"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-642.40967"
+       x="826.38568"
+       height="7.835907"
+       width="4.2402644"
+       id="R15"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R14"
+       width="4.2402644"
+       height="7.835907"
+       x="819.19818"
+       y="-657.78467"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-657.75342"
+       x="811.99506"
+       height="7.835907"
+       width="4.2402644"
+       id="R18"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R16"
+       width="4.2402644"
+       height="7.835907"
+       x="819.18256"
+       y="-642.44092"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-642.4566"
+       x="812.01068"
+       height="7.835907"
+       width="4.2402644"
+       id="R19"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       inkscape:label="#R19" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R5"
+       width="4.2402644"
+       height="7.835907"
+       x="791.29193"
+       y="-610.93701"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-601.03467"
+       x="753.46777"
+       height="7.835907"
+       width="4.2402644"
+       id="R20"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R21"
+       width="4.2402644"
+       height="7.835907"
+       x="753.47162"
+       y="-590.22998"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:label="#R21" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-611.84717"
+       x="744.49115"
+       height="7.835907"
+       width="4.2402644"
+       id="R12"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R17"
+       width="4.2402644"
+       height="7.835907"
+       x="744.48724"
+       y="-601.0542"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-590.23535"
+       x="744.47919"
+       height="7.835907"
+       width="4.2402644"
+       id="R11"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C21"
+       width="4.2402644"
+       height="7.835907"
+       x="744.48499"
+       y="-579.43854"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-559.15332"
+       x="751.93719"
+       height="7.835907"
+       width="4.2402644"
+       id="C10"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="Q1"
+       width="10.990265"
+       height="9.648407"
+       x="616.84363"
+       y="681.47687" />
+    <rect
+       y="687.78156"
+       x="599.92175"
+       height="7.835907"
+       width="8.8652649"
+       id="U12"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="U10"
+       width="14.052764"
+       height="13.898407"
+       x="571.17175"
+       y="718.90662"
+       inkscape:label="#U10" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="J1"
+       width="28.509798"
+       height="42.347622"
+       x="649.3905"
+       y="703.53156" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="U5"
+       width="13.167487"
+       height="13.083964"
+       x="522.14417"
+       y="861.54462" />
+    <rect
+       y="835.66333"
+       x="423.22656"
+       height="63.96664"
+       width="51.555832"
+       id="U2"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="X2"
+       width="18.271915"
+       height="24.231945"
+       x="501.57571"
+       y="814.53156" />
+    <rect
+       y="879.98468"
+       x="520.11707"
+       height="10.429657"
+       width="17.209015"
+       id="U4"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C19"
+       width="7.3496394"
+       height="17.289032"
+       x="540.32794"
+       y="839.64093" />
+    <rect
+       y="817.90649"
+       x="523.14044"
+       height="15.804657"
+       width="23.646515"
+       id="U7"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="U6"
+       width="11.81839"
+       height="15.585907"
+       x="575.27661"
+       y="812.03607" />
+    <rect
+       y="810.65503"
+       x="596.52301"
+       height="15.835052"
+       width="26.381546"
+       id="U9"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="U1"
+       width="46.092148"
+       height="46.108059"
+       x="533.6123"
+       y="759.32703" />
+    <rect
+       y="757.15656"
+       x="509.07794"
+       height="53.273407"
+       width="7.2402644"
+       id="X1"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="U3"
+       width="59.302765"
+       height="52.148407"
+       x="618.21857"
+       y="753.25031"
+       inkscape:label="#U3" />
+    <rect
+       y="742.90533"
+       x="619.08411"
+       height="7.3718681"
+       width="17.299643"
+       id="C7"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="P3"
+       width="26.735098"
+       height="23.392256"
+       x="538.56226"
+       y="669.98492" />
+    <rect
+       y="727.69055"
+       x="594.77655"
+       height="10.76377"
+       width="10.129138"
+       id="L1"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="L2"
+       width="10.09964"
+       height="10.835906"
+       x="594.78107"
+       y="714.15656" />
+    <rect
+       y="687.84473"
+       x="519.56134"
+       height="68.906219"
+       width="12.904327"
+       id="BT1"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="B1"
+       width="77.64679"
+       height="38.639244"
+       x="569.62439"
+       y="835.25317" />
+    <rect
+       y="881.92474"
+       x="558.96478"
+       height="6.5546589"
+       width="9.7012024"
+       id="U8"
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="U11"
+       width="29.875261"
+       height="31.819805"
+       x="613.61554"
+       y="695.84302" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="P2"
+       width="19.445436"
+       height="9.7227182"
+       x="515.54675"
+       y="672.04749" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="C27"
+       width="4.2402644"
+       height="7.835907"
+       x="731.84839"
+       y="-645.99969"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R31"
+       width="4.2402644"
+       height="7.835907"
+       x="801.92499"
+       y="-592.0921"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:label="#R31" />
+    <rect
+       style="fill:#ff0000;fill-opacity:0.56164383;fill-rule:evenodd;stroke:none"
+       id="R30"
+       width="4.2402644"
+       height="7.835907"
+       x="-629.94275"
+       y="-829.68127"
+       transform="scale(-1,-1)"
+       inkscape:label="#R30" />
+  </g>
+</svg>
