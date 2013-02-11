@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-nov-02)-testing date = Sun 10 Feb 2013 11:32:40 AM PST
+Cmp-Mod V01 Created by CvPcb (2012-nov-02)-testing date = Sun 10 Feb 2013 10:53:20 PM PST
 
 BeginCmp
 TimeStamp = /50768932;
@@ -253,17 +253,52 @@ IdModule  = NR3012;
 EndCmp
 
 BeginCmp
+TimeStamp = /511894F2;
+Reference = P1;
+ValeurCmp = Header;
+IdModule  = pin_array_12x2;
+EndCmp
+
+BeginCmp
 TimeStamp = /50749C6C/5085FFEE;
 Reference = P2;
-ValeurCmp = Lipo Batt;
+ValeurCmp = Lipo Header;
 IdModule  = SIL-2;
 EndCmp
 
 BeginCmp
 TimeStamp = /50749C6C/50749FA4;
 Reference = P3;
-ValeurCmp = Lipo Batt;
-IdModule  = JST-2;
+ValeurCmp = Lipo JST;
+IdModule  = JST-RIGHT-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118AB91;
+Reference = P4;
+ValeurCmp = MountingHole;
+IdModule  = 4-40;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118ABA0;
+Reference = P5;
+ValeurCmp = MountingHole;
+IdModule  = 4-40;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118ABAF;
+Reference = P6;
+ValeurCmp = MountingHole;
+IdModule  = 4-40;
+EndCmp
+
+BeginCmp
+TimeStamp = /5118AB82;
+Reference = P7;
+ValeurCmp = MountingHole;
+IdModule  = 4-40;
 EndCmp
 
 BeginCmp
@@ -487,6 +522,20 @@ BeginCmp
 TimeStamp = /50E7A405;
 Reference = R31;
 ValeurCmp = 3k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50749C6C/51188EDA;
+Reference = R32;
+ValeurCmp = 10k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50749C6C/51188EE9;
+Reference = R33;
+ValeurCmp = 10k;
 IdModule  = SM0603;
 EndCmp
 

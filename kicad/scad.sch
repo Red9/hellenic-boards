@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Sun 10 Feb 2013 03:59:50 PM PST
+EESchema Schematic File Version 2  date Sun 10 Feb 2013 11:04:54 PM PST
 LIBS:srlm
 LIBS:power
 LIBS:device
@@ -37,7 +37,7 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 3
 Title "Self Contained Automatic Datalogger"
-Date "10 feb 2013"
+Date "11 feb 2013"
 Rev "Beta 2"
 Comp "Red9"
 Comment1 ""
@@ -152,13 +152,13 @@ F 2 "SM0603" V 5450 4400 50  0001 C CNN
 $EndComp
 NoConn ~ 9500 2600
 Text GLabel 7800 1850 0    40   3State ~ 0
-P21
-Text GLabel 7800 1750 0    40   3State ~ 0
 P20
-Text GLabel 7800 1650 0    40   3State ~ 0
+Text GLabel 7800 1750 0    40   3State ~ 0
 P19
-Text GLabel 7800 1550 0    40   3State ~ 0
+Text GLabel 7800 1650 0    40   3State ~ 0
 P18
+Text GLabel 7800 1550 0    40   3State ~ 0
+P17
 NoConn ~ 9600 2600
 $Comp
 L GND #PWR04
@@ -390,7 +390,6 @@ Text Notes 6850 6000 1    40   ~ 0
 PA6H
 NoConn ~ 2400 3550
 NoConn ~ 2500 3550
-NoConn ~ 4400 3550
 NoConn ~ 2700 3550
 NoConn ~ 2200 3550
 Wire Wire Line
@@ -964,4 +963,167 @@ Text Notes 7300 6000 1    40   ~ 0
 TMP102 - 0
 Text Notes 7750 6000 1    40   ~ 0
 TMP102 - 1
+$Comp
+L CONN_12X2 P1
+U 1 1 511894F2
+P 9200 5500
+F 0 "P1" H 9200 6150 60  0000 C CNN
+F 1 "Header" V 9200 5500 50  0000 C CNN
+	1    9200 5500
+	1    0    0    -1  
+$EndComp
+Text GLabel 8750 5050 0    40   Input ~ 0
+I2C_SDA
+Text GLabel 8750 5150 0    40   Input ~ 0
+I2C_SCL
+Text GLabel 9650 4950 2    40   Input ~ 0
+VAA
+Text GLabel 9650 5350 2    40   Input ~ 0
+VAA
+$Comp
+L GND #PWR017
+U 1 1 51189501
+P 8500 6100
+F 0 "#PWR017" H 8500 6100 30  0001 C CNN
+F 1 "GND" H 8500 6030 30  0001 C CNN
+	1    8500 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR018
+U 1 1 51189510
+P 9850 6100
+F 0 "#PWR018" H 9850 6100 30  0001 C CNN
+F 1 "GND" H 9850 6030 30  0001 C CNN
+	1    9850 6100
+	1    0    0    -1  
+$EndComp
+Text GLabel 9650 5050 2    40   Input ~ 0
+P0
+Text GLabel 9650 5150 2    40   Input ~ 0
+P1
+Text GLabel 9650 5450 2    40   Input ~ 0
+P2
+Text GLabel 9650 5550 2    40   Input ~ 0
+P3
+Text GLabel 9650 5850 2    40   Input ~ 0
+P4
+Text GLabel 9650 5950 2    40   Input ~ 0
+P5
+Text GLabel 8750 5950 0    40   Input ~ 0
+BATT
+Text GLabel 8750 5550 0    40   Input ~ 0
+VDD
+Text GLabel 9650 5750 2    40   Input ~ 0
+VAA
+Text GLabel 8750 4950 0    40   Input ~ 0
+VAA
+Text GLabel 8750 5750 0    40   Input ~ 0
+VDD
+Text GLabel 8750 5350 0    40   Input ~ 0
+VAA
+Wire Wire Line
+	8800 5250 8500 5250
+Wire Wire Line
+	8500 5250 8500 6100
+Wire Wire Line
+	8800 5450 8500 5450
+Connection ~ 8500 5450
+Wire Wire Line
+	8500 5650 8800 5650
+Connection ~ 8500 5650
+Wire Wire Line
+	8800 5850 8500 5850
+Connection ~ 8500 5850
+Wire Wire Line
+	8500 6050 8800 6050
+Connection ~ 8500 6050
+Wire Wire Line
+	8800 5950 8750 5950
+Wire Wire Line
+	8750 5750 8800 5750
+Wire Wire Line
+	8800 5550 8750 5550
+Wire Wire Line
+	8750 5350 8800 5350
+Wire Wire Line
+	8750 5150 8800 5150
+Wire Wire Line
+	8750 5050 8800 5050
+Wire Wire Line
+	8750 4950 8800 4950
+Wire Wire Line
+	9650 4950 9600 4950
+Wire Wire Line
+	9600 5050 9650 5050
+Wire Wire Line
+	9650 5150 9600 5150
+Wire Wire Line
+	9600 5250 9850 5250
+Wire Wire Line
+	9850 5250 9850 6100
+Wire Wire Line
+	9650 5350 9600 5350
+Wire Wire Line
+	9600 5450 9650 5450
+Wire Wire Line
+	9650 5550 9600 5550
+Wire Wire Line
+	9600 5650 9850 5650
+Connection ~ 9850 5650
+Wire Wire Line
+	9600 5750 9650 5750
+Wire Wire Line
+	9650 5850 9600 5850
+Wire Wire Line
+	9600 5950 9650 5950
+Wire Wire Line
+	9600 6050 9850 6050
+Connection ~ 9850 6050
+$Comp
+L CONN_1 P7
+U 1 1 5118AB82
+P 3250 4650
+F 0 "P7" H 3330 4650 40  0000 L CNN
+F 1 "MountingHole" H 3250 4705 30  0001 C CNN
+	1    3250 4650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CONN_1 P4
+U 1 1 5118AB91
+P 2950 4650
+F 0 "P4" H 3030 4650 40  0000 L CNN
+F 1 "MountingHole" H 2950 4705 30  0001 C CNN
+	1    2950 4650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CONN_1 P5
+U 1 1 5118ABA0
+P 3050 4650
+F 0 "P5" H 3130 4650 40  0000 L CNN
+F 1 "MountingHole" H 3050 4705 30  0001 C CNN
+	1    3050 4650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CONN_1 P6
+U 1 1 5118ABAF
+P 3150 4650
+F 0 "P6" H 3230 4650 40  0000 L CNN
+F 1 "MountingHole" H 3150 4705 30  0001 C CNN
+	1    3150 4650
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 3250 4800
+NoConn ~ 2950 4800
+NoConn ~ 3050 4800
+NoConn ~ 3150 4800
+Text Notes 3300 4450 2    40   ~ 0
+Mounting holes
+Text Notes 2200 4450 2    40   ~ 0
+DRC-check notations
+Text Notes 9500 4750 2    40   ~ 0
+Header for spare pins
 $EndSCHEMATC

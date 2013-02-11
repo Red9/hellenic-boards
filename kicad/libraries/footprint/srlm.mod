@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Sun 10 Feb 2013 03:36:09 PM PST
+PCBNEW-LibModule-V1  Sun 10 Feb 2013 10:11:20 PM PST
 # encoding utf-8
 Units mm
 $INDEX
@@ -13,6 +13,7 @@ FGPMMOPA6H
 FT232RQ
 HC-49US
 JST-2
+JST-RIGHT-2
 KSC9-J
 LGA-14
 LGA-16
@@ -131,6 +132,7 @@ $EndMODULE CR1225
 $MODULE DM3AT-SF-PEJM5
 Po 0 0 0 15 507353F7 00000000 ~~
 Li DM3AT-SF-PEJM5
+Kw SMD SD card hirose microsd
 Sc 0
 AR 
 Op 0 0 0
@@ -252,6 +254,12 @@ At SMD N 00888000
 Ne 0 ""
 Po 3.2512 15.1003
 $EndPAD
+$SHAPE3D
+Na "libraries/3d/vrml/cube.wrl"
+Sc 5.4527 6 0.66141
+Of -0.385 -0.6 -0.0085
+Ro 0 0 0
+$EndSHAPE3D
 $EndMODULE DM3AT-SF-PEJM5
 $MODULE ECX-53B
 Po 0 0 0 15 5111595A 00000000 ~~
@@ -883,11 +891,65 @@ At SMD N 00888000
 Ne 0 ""
 Po -2.99974 2.25044
 $EndPAD
+$SHAPE3D
+Na "libraries/3d/vrml/jst_smd_vertical_2.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0.155 -0.149 0
+Ro -90 0 180
+$EndSHAPE3D
 $EndMODULE JST-2
+$MODULE JST-RIGHT-2
+Po 0 0 0 15 5118880A 00000000 ~~
+Li JST-RIGHT-2
+Kw JST Right Angle battery connector
+Sc 0
+AR 
+Op 0 0 0
+T0 0 6.5 0.3 0.3 0 0.055 N V 21 N "JST-SIDE-2"
+T1 4.5 1.5 0.3 0.3 900 0.055 N V 21 N "VAL**"
+DS -4 0 4 0 0.14986 21
+DS 4 0 4 6 0.14986 21
+DS 4 6 -4 6 0.14986 21
+DS -4 6 -4 0 0.14986 21
+$PAD
+Sh "1" R 1 3.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "2" R 1 3.5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "" R 1.5 3.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.35 5.55
+$EndPAD
+$PAD
+Sh "" R 1.5 3.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.35 5.55
+$EndPAD
+$SHAPE3D
+Na "libraries/3d/vrml/jst_smd_side_2.wrl"
+Sc 0.3937 0.3937 0.3937
+Of -0.09 -0.13 -0.01
+Ro -90 0 0
+$EndSHAPE3D
+$EndMODULE JST-RIGHT-2
 $MODULE KSC9-J
 Po 0 0 0 15 5117F53F 00000000 ~~
 Li KSC9-J
-Kw KSC9 Series
+Kw KSC9 Series push button
 Sc 0
 AR 
 Op 0 0 0
@@ -927,6 +989,12 @@ At SMD N 00888000
 Ne 0 ""
 Po 2.9 2
 $EndPAD
+$SHAPE3D
+Na "libraries/3d/vrml/ksc9j.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0 0 0.06
+Ro 0 0 0
+$EndSHAPE3D
 $EndMODULE KSC9-J
 $MODULE LGA-14
 Po 0 0 0 15 50735511 00000000 ~~
@@ -1334,6 +1402,12 @@ At SMD N 00888000
 Ne 0 ""
 Po -4.92506 4.24942
 $EndPAD
+$SHAPE3D
+Na "libraries/3d/vrml/usb_67503_1230.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0 -0.322 0.073
+Ro -90 0 0
+$EndSHAPE3D
 $EndMODULE Mini-B-USB
 $MODULE NR3012
 Po 0 0 0 15 50736728 00000000 ~~
