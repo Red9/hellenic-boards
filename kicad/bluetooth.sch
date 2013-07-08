@@ -1,0 +1,197 @@
+EESchema Schematic File Version 2
+LIBS:srlm
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:open-project
+LIBS:scad-cache
+EELAYER 24 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 4 4
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L RN-41 U15
+U 1 1 51D67B29
+P 5100 3450
+F 0 "U15" H 5700 2500 50  0000 C CNN
+F 1 "RN-41" H 5100 4400 50  0000 C CNN
+F 2 "" H 5100 3450 60  0000 C CNN
+F 3 "" H 5100 3450 60  0000 C CNN
+	1    5100 3450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5700 3900 6400 3900
+Wire Wire Line
+	5700 4000 6400 4000
+Wire Wire Line
+	5700 3800 6400 3800
+Wire Wire Line
+	5700 3400 6400 3400
+$Comp
+L R R40
+U 1 1 51D67E31
+P 6200 2650
+F 0 "R40" V 6280 2650 40  0000 C CNN
+F 1 "330" V 6207 2651 40  0000 C CNN
+F 2 "" V 6130 2650 30  0000 C CNN
+F 3 "" H 6200 2650 30  0000 C CNN
+	1    6200 2650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6200 3400 6200 3350
+Connection ~ 6200 3400
+Wire Wire Line
+	6200 2950 6200 2900
+$Comp
+L CONN_1 W1
+U 1 1 51D67EF8
+P 5750 2500
+F 0 "W1" H 5830 2500 40  0000 L CNN
+F 1 "CONN_1" H 5750 2555 30  0001 C CNN
+F 2 "" H 5750 2500 60  0000 C CNN
+F 3 "" H 5750 2500 60  0000 C CNN
+	1    5750 2500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5700 2900 5750 2900
+Wire Wire Line
+	5750 2900 5750 2650
+$Comp
+L GND #PWR054
+U 1 1 51D67F8B
+P 4850 4750
+F 0 "#PWR054" H 4850 4750 30  0001 C CNN
+F 1 "GND" H 4850 4680 30  0001 C CNN
+F 2 "" H 4850 4750 60  0000 C CNN
+F 3 "" H 4850 4750 60  0000 C CNN
+	1    4850 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L VDD #PWR055
+U 1 1 51D67F9A
+P 4350 3850
+F 0 "#PWR055" H 4350 3950 30  0001 C CNN
+F 1 "VDD" H 4350 3960 30  0000 C CNN
+F 2 "" H 4350 3850 60  0000 C CNN
+F 3 "" H 4350 3850 60  0000 C CNN
+	1    4350 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 2900 4250 2900
+Wire Wire Line
+	4250 2900 4250 4650
+Wire Wire Line
+	4250 4650 5350 4650
+Wire Wire Line
+	5350 4650 5350 4450
+Wire Wire Line
+	4850 4450 4850 4750
+Connection ~ 4850 4650
+Wire Wire Line
+	4250 4000 4500 4000
+Connection ~ 4250 4000
+Wire Wire Line
+	4350 3850 4350 3900
+Wire Wire Line
+	4350 3900 4500 3900
+Text GLabel 6400 4000 2    40   Input ~ 0
+P0
+Text GLabel 6400 3900 2    40   Input ~ 0
+P1
+Text GLabel 6400 3800 2    40   Input ~ 0
+P3
+Text GLabel 6400 3400 2    40   Input ~ 0
+P4
+NoConn ~ 5700 3000
+NoConn ~ 5700 3100
+NoConn ~ 5700 3300
+NoConn ~ 5700 3500
+NoConn ~ 5700 3600
+NoConn ~ 5700 3700
+NoConn ~ 5450 4450
+NoConn ~ 5250 4450
+NoConn ~ 5150 4450
+NoConn ~ 5050 4450
+NoConn ~ 4950 4450
+NoConn ~ 4750 4500
+NoConn ~ 4500 3800
+NoConn ~ 4500 3700
+NoConn ~ 4500 3600
+NoConn ~ 4500 3500
+NoConn ~ 4500 3400
+NoConn ~ 4500 3300
+NoConn ~ 4500 3200
+NoConn ~ 4500 3100
+NoConn ~ 4500 3000
+$Comp
+L GND #PWR056
+U 1 1 51D6815A
+P 6600 2450
+F 0 "#PWR056" H 6600 2450 30  0001 C CNN
+F 1 "GND" H 6600 2380 30  0001 C CNN
+F 2 "" H 6600 2450 60  0000 C CNN
+F 3 "" H 6600 2450 60  0000 C CNN
+	1    6600 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED D9
+U 1 1 51D67DE8
+P 6200 3150
+F 0 "D9" H 6200 3250 50  0000 C CNN
+F 1 "LED" H 6200 3050 50  0000 C CNN
+F 2 "" H 6200 3150 60  0000 C CNN
+F 3 "" H 6200 3150 60  0000 C CNN
+	1    6200 3150
+	0    1    -1   0   
+$EndComp
+NoConn ~ 5700 3200
+Wire Wire Line
+	6200 2400 6200 2350
+Wire Wire Line
+	6200 2350 6600 2350
+Wire Wire Line
+	6600 2350 6600 2450
+$EndSCHEMATC

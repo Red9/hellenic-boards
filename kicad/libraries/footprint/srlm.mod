@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Sun 10 Feb 2013 10:11:20 PM PST
+PCBNEW-LibModule-V1  Sun 17 Feb 2013 08:38:25 PM PST
 # encoding utf-8
 Units mm
 $INDEX
@@ -1403,7 +1403,7 @@ Ne 0 ""
 Po -4.92506 4.24942
 $EndPAD
 $SHAPE3D
-Na "libraries/3d/vrml/usb_67503_1230.wrl"
+Na "usb_67503_1230.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 -0.322 0.073
 Ro -90 0 0

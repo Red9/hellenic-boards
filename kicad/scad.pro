@@ -1,6 +1,6 @@
-update=Fri 30 Nov 2012 01:30:03 PM PST
+update=Fri 05 Jul 2013 01:50:57 AM PDT
 version=1
-last_client=eeschema
+last_client=pcbnew
 [general]
 version=1
 [cvpcb]
@@ -8,36 +8,6 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
-[pcbnew]
-version=1
-LastNetListRead=scad.net
-PadDrill=3.175
-PadSizeH=5.08
-PadSizeV=5.08
-PcbTextSizeV=2.032
-PcbTextSizeH=1.524
-PcbTextThickness=0.3048
-ModuleTextSizeV=0.29972
-ModuleTextSizeH=0.29972
-ModuleTextSizeThickness=0.0508
-SolderMaskClearance=0.254
-DrawSegmentWidth=0.1524
-BoardOutlineThickness=0.381
-ModuleOutlineThickness=0.14986
-[pcbnew/libraries]
-LibDir=
-LibName1=sockets
-LibName2=connect
-LibName3=discret
-LibName4=pin_array
-LibName5=divers
-LibName6=libcms
-LibName7=display
-LibName8=led
-LibName9=dip_sockets
-LibName10=pga_sockets
-LibName11=valves
-LibName12=libraries/footprint/srlm
 [eeschema]
 version=1
 LibDir=
@@ -78,3 +48,38 @@ LibName28=opto
 LibName29=atmel
 LibName30=contrib
 LibName31=valves
+LibName32=libraries/schematic/open-project
+[pcbnew]
+version=1
+LastNetListRead=scad.net
+UseCmpFile=1
+PadDrill="    0.000000"
+PadDrillOvalY="    0.000000"
+PadSizeH="    1.500000"
+PadSizeV="    3.400000"
+PcbTextSizeV="    2.032000"
+PcbTextSizeH="    1.524000"
+PcbTextThickness="    0.304800"
+ModuleTextSizeV="    0.300000"
+ModuleTextSizeH="    0.300000"
+ModuleTextSizeThickness="    0.055000"
+SolderMaskClearance="    0.025400"
+SolderMaskMinWidth="    0.000000"
+DrawSegmentWidth="    0.152400"
+BoardOutlineThickness="    0.381000"
+ModuleOutlineThickness="    0.149860"
+[pcbnew/libraries]
+LibDir=
+LibName1=sockets
+LibName2=connect
+LibName3=discret
+LibName4=pin_array
+LibName5=divers
+LibName6=libcms
+LibName7=display
+LibName8=led
+LibName9=dip_sockets
+LibName10=pga_sockets
+LibName11=valves
+LibName12=libraries/footprint/srlm
+LibName13=libraries/footprint/open-project

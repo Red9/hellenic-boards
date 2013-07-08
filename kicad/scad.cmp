@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-nov-02)-testing date = Sun 10 Feb 2013 10:53:20 PM PST
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Fri 05 Jul 2013 04:44:18 AM PDT
 
 BeginCmp
 TimeStamp = /50768932;
@@ -232,6 +232,41 @@ IdModule  = LED-0603;
 EndCmp
 
 BeginCmp
+TimeStamp = /51D68317;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50749C6C/51D696EB;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50749C6C/51D68EFD;
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D67B21/51D67E11;
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D67B21/51D67DE8;
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
 TimeStamp = /50749C6C/5074A08C;
 Reference = J1;
 ValeurCmp = USB_SMD;
@@ -250,13 +285,6 @@ TimeStamp = /50749C6C/50768EF0;
 Reference = L2;
 ValeurCmp = 4.7uH;
 IdModule  = NR3012;
-EndCmp
-
-BeginCmp
-TimeStamp = /511894F2;
-Reference = P1;
-ValeurCmp = Header;
-IdModule  = pin_array_12x2;
 EndCmp
 
 BeginCmp
@@ -540,6 +568,55 @@ IdModule  = SM0603;
 EndCmp
 
 BeginCmp
+TimeStamp = /51D68C22;
+Reference = R34;
+ValeurCmp = 3k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D68C1C;
+Reference = R35;
+ValeurCmp = 3k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D68335;
+Reference = R36;
+ValeurCmp = 330;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50749C6C/51D696DC;
+Reference = R37;
+ValeurCmp = 330;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50749C6C/51D68F40;
+Reference = R38;
+ValeurCmp = 550;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D67B21/51D67E22;
+Reference = R39;
+ValeurCmp = 330;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D67B21/51D67E31;
+Reference = R40;
+ValeurCmp = 330;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
 TimeStamp = /50749C6C/51100B75;
 Reference = SW1;
 ValeurCmp = SPST;
@@ -642,6 +719,20 @@ TimeStamp = /50749684/51133470;
 Reference = U14;
 ValeurCmp = TMP102;
 IdModule  = SOT563;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D67B21/51D67B29;
+Reference = U15;
+ValeurCmp = RN-41;
+IdModule  = RN-41;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D67B21/51D67EF8;
+Reference = W1;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_S_SMD;
 EndCmp
 
 BeginCmp
