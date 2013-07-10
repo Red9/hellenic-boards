@@ -1,4 +1,4 @@
-update=Fri 05 Jul 2013 01:50:57 AM PDT
+update=Tue 09 Jul 2013 09:19:59 PM PDT
 version=1
 last_client=pcbnew
 [general]
@@ -55,8 +55,8 @@ LastNetListRead=scad.net
 UseCmpFile=1
 PadDrill="    0.000000"
 PadDrillOvalY="    0.000000"
-PadSizeH="    1.500000"
-PadSizeV="    3.400000"
+PadSizeH="    2.400000"
+PadSizeV="    1.900000"
 PcbTextSizeV="    2.032000"
 PcbTextSizeH="    1.524000"
 PcbTextThickness="    0.304800"
@@ -83,3 +83,4 @@ LibName10=pga_sockets
 LibName11=valves
 LibName12=libraries/footprint/srlm
 LibName13=libraries/footprint/open-project
+LibName14=libraries/footprint/ref-packages
