@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Wed 10 Jul 2013 09:30:58 AM PDT
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Tue 16 Jul 2013 06:09:46 AM PDT
 
 BeginCmp
 TimeStamp = /50768932;
@@ -278,6 +278,41 @@ TimeStamp = /51DD9014;
 Reference = P3;
 ValeurCmp = CONN_2;
 IdModule  = CONN_2_2MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /50749684/51E319EF;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = CONN_2_2MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E4202D;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = 4-40;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E4203C;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = 4-40;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E4204B;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = 4-40;
+EndCmp
+
+BeginCmp
+TimeStamp = /51E4205A;
+Reference = P8;
+ValeurCmp = CONN_1;
+IdModule  = 4-40;
 EndCmp
 
 BeginCmp
@@ -641,7 +676,7 @@ BeginCmp
 TimeStamp = /51D67B21/51D67B29;
 Reference = U15;
 ValeurCmp = RN-41;
-IdModule  = RN-41;
+IdModule  = RN41_42;
 EndCmp
 
 BeginCmp
@@ -652,10 +687,45 @@ IdModule  = 1PIN_S_SMD;
 EndCmp
 
 BeginCmp
+TimeStamp = /50749684/51E3207F;
+Reference = W2;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_S_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /50749684/51E3208E;
+Reference = W3;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_S_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D67B21/51E31DA5;
+Reference = W4;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_S_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D67B21/51E31DB4;
+Reference = W5;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_S_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D67B21/51E31DC3;
+Reference = W6;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_S_SMD;
+EndCmp
+
+BeginCmp
 TimeStamp = /506A29F2;
 Reference = X1;
 ValeurCmp = CRYSTAL;
-IdModule  = ECX-53B;
+IdModule  = ABMM_Crystal;
 EndCmp
 
 BeginCmp

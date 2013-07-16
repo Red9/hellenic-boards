@@ -31,6 +31,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:open-project
+LIBS:scad-cache
 EELAYER 24 0
 EELAYER END
 $Descr USLetter 11000 8500
@@ -1091,8 +1092,6 @@ Wire Wire Line
 Wire Wire Line
 	3200 7050 3200 7450
 Connection ~ 3200 7450
-Wire Wire Line
-	3200 7250 3250 7250
 Connection ~ 3200 7250
 $Comp
 L FT232RQ U11
@@ -1170,4 +1169,6 @@ F 3 "" H 5850 2650 60  0000 C CNN
 $EndComp
 Text Notes 8900 1600 0    40   ~ 0
 Buffer circuit from PhiPi
+Wire Wire Line
+	3250 7250 3200 7250
 $EndSCHEMATC

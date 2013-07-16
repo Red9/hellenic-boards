@@ -31,6 +31,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:open-project
+LIBS:scad-cache
 EELAYER 24 0
 EELAYER END
 $Descr A4 11693 8268
@@ -57,11 +58,11 @@ F 3 "" H 5100 3450 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5700 3900 6400 3900
+	5700 3900 7250 3900
 Wire Wire Line
-	5700 4000 6400 4000
+	5700 4000 7250 4000
 Wire Wire Line
-	5700 3800 6400 3800
+	5700 3800 7250 3800
 Wire Wire Line
 	5700 3400 6400 3400
 $Comp
@@ -135,11 +136,11 @@ Wire Wire Line
 	4350 3850 4350 3900
 Wire Wire Line
 	4350 3900 4500 3900
-Text GLabel 6400 4000 2    40   Input ~ 0
+Text GLabel 7250 4000 2    40   Input ~ 0
 P0
-Text GLabel 6400 3900 2    40   Input ~ 0
+Text GLabel 7250 3900 2    40   Input ~ 0
 P1
-Text GLabel 6400 3800 2    40   Input ~ 0
+Text GLabel 7250 3800 2    40   Input ~ 0
 P2
 Text GLabel 6400 3400 2    40   Input ~ 0
 P3
@@ -193,4 +194,46 @@ Wire Wire Line
 	6200 2350 6600 2350
 Wire Wire Line
 	6600 2350 6600 2450
+$Comp
+L CONN_1 W4
+U 1 1 51E31DA5
+P 6750 3500
+F 0 "W4" H 6830 3500 40  0000 L CNN
+F 1 "CONN_1" H 6750 3555 30  0001 C CNN
+F 2 "" H 6750 3500 60  0000 C CNN
+F 3 "" H 6750 3500 60  0000 C CNN
+	1    6750 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CONN_1 W5
+U 1 1 51E31DB4
+P 6900 3500
+F 0 "W5" H 6980 3500 40  0000 L CNN
+F 1 "CONN_1" H 6900 3555 30  0001 C CNN
+F 2 "" H 6900 3500 60  0000 C CNN
+F 3 "" H 6900 3500 60  0000 C CNN
+	1    6900 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CONN_1 W6
+U 1 1 51E31DC3
+P 7050 3500
+F 0 "W6" H 7130 3500 40  0000 L CNN
+F 1 "CONN_1" H 7050 3555 30  0001 C CNN
+F 2 "" H 7050 3500 60  0000 C CNN
+F 3 "" H 7050 3500 60  0000 C CNN
+	1    7050 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6750 3650 6750 4000
+Connection ~ 6750 4000
+Wire Wire Line
+	6900 3650 6900 3900
+Connection ~ 6900 3900
+Wire Wire Line
+	7050 3650 7050 3800
+Connection ~ 7050 3800
 $EndSCHEMATC
