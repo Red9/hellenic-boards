@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 2 date Tue 16 Jul 2013 03:42:57 PM PDT
+PCBNEW-BOARD Version 2 date Wed 17 Jul 2013 08:46:30 AM PDT
 
 # Created by Pcbnew(2013-mar-13)-testing
 
@@ -61,13 +61,13 @@ TextPcbSize 1.524 2.032
 EdgeModWidth 0.14986
 TextModSize 0.635 0.635
 TextModWidth 0.127
-PadSize 2.4 1.4
+PadSize 1.27 1.27
 PadDrill 0
 Pad2MaskClearance 0.0254
 SolderMaskMinWidth 0
 AuxiliaryAxisOrg 0 0
 VisibleElements FFFFF7FF
-PcbPlotParams (pcbplotparams (layerselection 36732935) (usegerberextensions false) (excludeedgelayer false) (linewidth 0.150000) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 2) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext false) (plotinvisibletext false) (padsonsilk true) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 0) (scaleselection 1) (outputdirectory gerber/))
+PcbPlotParams (pcbplotparams (layerselection 786432) (usegerberextensions true) (excludeedgelayer false) (linewidth 0.150000) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 2) (psnegative false) (psa4output false) (plotreference true) (plotvalue false) (plotothertext false) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 0) (scaleselection 1) (outputdirectory gerber/))
 $EndSETUP
 
 $EQUIPOT
@@ -3001,10 +3001,10 @@ Po 0.7493 0
 $EndPAD
 $EndMODULE LED-0603
 $MODULE TDFN-EP8
-Po 190.5 94.75 0 15 51E57053 51100E3E ~~
+Po 190.5 94.75 0 15 51E69EC3 51E6A3BC ~~
 Li TDFN-EP8
 Kw SMD MAX17048
-Sc 51100E3E
+Sc 51E6A3BC
 AR /50749684/507DD184
 Op 0 0 0
 T0 0.5 -1.5 0.635 0.635 1800 0.127 N V 21 N "U8"
@@ -3076,6 +3076,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 6 "GND"
 Po 0 0
+.SolderPaste -0.1778
 $EndPAD
 $SHAPE3D
 Na "libraries/3d/vrml/cube.wrl"
@@ -3085,10 +3086,10 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE TDFN-EP8
 $MODULE TQFN-EP28
-Po 184.5 107.25 0 15 51E5706F 51100E2C ~P
+Po 184.5 107.25 0 15 51E69E2E 51E6A021 ~P
 Li TQFN-EP28
 Kw SMD PMIC MAX8819
-Sc 51100E2C
+Sc 51E6A021
 AR /50749C6C/5074A033
 Op 0 0 0
 T0 0 3 0.635 0.635 1800 0.127 N V 21 N "U10"
@@ -3297,42 +3298,47 @@ $EndPAD
 $PAD
 Sh "29" R 1 1 0 0 0
 Dr 0.3556 0 0
-At STD N 00E0FFFF
+At STD N 00E8FFFF
 Ne 6 "GND"
 Po -0.8 -0.8
+.SolderPaste -0.1778
 .ZoneConnection 2
 $EndPAD
 $PAD
 Sh "29" R 1 1 0 0 0
 Dr 0.3556 0 0
-At STD N 00E0FFFF
+At STD N 00E8FFFF
 Ne 6 "GND"
 Po 0.8 -0.8
+.SolderPaste -0.1778
 .ZoneConnection 2
 $EndPAD
 $PAD
 Sh "29" R 1 1 0 0 0
 Dr 0.3556 0 0
-At STD N 00E0FFFF
+At STD N 00E8FFFF
 Ne 6 "GND"
 Po 0 0
 .SolderMask 0.8
+.SolderPaste -0.1524
 .ZoneConnection 2
 $EndPAD
 $PAD
 Sh "29" R 1 1 0 0 0
 Dr 0.3556 0 0
-At STD N 00E0FFFF
+At STD N 00E8FFFF
 Ne 6 "GND"
 Po -0.8 0.8
+.SolderPaste -0.1778
 .ZoneConnection 2
 $EndPAD
 $PAD
 Sh "29" R 1 1 0 0 0
 Dr 0.3556 0 0
-At STD N 00E0FFFF
+At STD N 00E8FFFF
 Ne 6 "GND"
 Po 0.8 0.8
+.SolderPaste -0.1778
 .ZoneConnection 2
 $EndPAD
 $SHAPE3D
@@ -3420,7 +3426,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE MS5611
 $MODULE SOT909-EP
-Po 189.75 98.75 2700 15 51E56EB1 5111903D ~~
+Po 189.75 98.75 2700 15 51E69E9F 5111903D ~~
 Li SOT909-EP
 Kw HVSON8 MO-229 SOT909-1 PCF8523
 Sc 5111903D
@@ -3495,6 +3501,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 6 "GND"
 Po 0 0
+.SolderPaste -0.508
 $EndPAD
 $SHAPE3D
 Na "libraries/3d/vrml/cube.wrl"
@@ -3918,7 +3925,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE FGPMMOPA6H
 $MODULE FT232RQ
-Po 188.75 121.75 0 15 51E5700D 51119067 ~~
+Po 188.75 121.75 0 15 51E69E5D 51119067 ~~
 Li FT232RQ
 Sc 51119067
 AR /50749C6C/51102474
@@ -4160,6 +4167,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 6 "GND"
 Po 0 0
+.SolderPaste -0.5588
 $EndPAD
 $SHAPE3D
 Na "libraries/3d/vrml/cube.wrl"
@@ -4232,7 +4240,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE SOT363-6
 $MODULE P8X32A-M44
-Po 200.25 104.75 0 15 51E5707F 5118827D ~~
+Po 200.25 104.75 0 15 51E69E85 5118827D ~~
 Li P8X32A-M44
 Sc 5118827D
 AR /5111C004
@@ -4551,6 +4559,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 6 "GND"
 Po 0 0
+.SolderPaste -1.778
 $EndPAD
 $PAD
 Sh "2" O 0.6 0.33 0 0 0
@@ -5005,7 +5014,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE SM0603
 $MODULE 1PIN_S_SMD
-Po 182 94.25 0 0 51E571F8 51D69002 ~~
+Po 182 94.25 0 0 51E6A502 51D69002 ~~
 Li 1PIN_S_SMD
 Cd 1 pin SMD
 Kw DEV
@@ -5017,7 +5026,7 @@ T1 -0.01 -1.73 0 0 0 0.000001 M I 20 N "CONN_1"
 $PAD
 Sh "1" R 1.27 1.27 0 0 0
 Dr 0 0 0
-At SMD N 00540001
+At SMD N 00500001
 Ne 53 "N-00000143"
 Po 0 0
 $EndPAD
@@ -5403,7 +5412,7 @@ Po 1 0
 $EndPAD
 $EndMODULE CONN_2_2MM
 $MODULE 1PIN_S_SMD
-Po 206.5 92.25 0 15 51E570F6 51E42124 ~~
+Po 206.5 92.25 0 15 51E6A4BD 51E42124 ~~
 Li 1PIN_S_SMD
 Cd 1 pin SMD
 Kw DEV
@@ -5415,13 +5424,13 @@ T1 -0.01 1.73 0 0 0 0.000001 N I 21 N "CONN_1"
 $PAD
 Sh "1" R 1.27 1.27 0 0 0
 Dr 0 0 0
-At SMD N 00A88000
+At SMD N 00A08000
 Ne 7 "I2C_SCL_1"
 Po 0 0
 $EndPAD
 $EndMODULE 1PIN_S_SMD
 $MODULE 1PIN_S_SMD
-Po 209 92.25 0 15 51E57100 51E42129 ~~
+Po 209 92.25 0 15 51E6A4C8 51E42129 ~~
 Li 1PIN_S_SMD
 Cd 1 pin SMD
 Kw DEV
@@ -5433,13 +5442,13 @@ T1 -0.01 1.73 0 0 0 0.000001 N I 21 N "CONN_1"
 $PAD
 Sh "1" R 1.27 1.27 0 0 0
 Dr 0 0 0
-At SMD N 00A88000
+At SMD N 00A08000
 Ne 9 "I2C_SDA_1"
 Po 0 0
 $EndPAD
 $EndMODULE 1PIN_S_SMD
 $MODULE 1PIN_S_SMD
-Po 202.5 96 0 0 51E571DE 51E4212E ~~
+Po 202.5 96 0 0 51E6A4DA 51E4212E ~~
 Li 1PIN_S_SMD
 Cd 1 pin SMD
 Kw DEV
@@ -5451,13 +5460,13 @@ T1 -0.01 -1.73 0 0 0 0.000001 M I 20 N "CONN_1"
 $PAD
 Sh "1" R 1.27 1.27 0 0 0
 Dr 0 0 0
-At SMD N 00540001
+At SMD N 00500001
 Ne 110 "P0"
 Po 0 0
 $EndPAD
 $EndMODULE 1PIN_S_SMD
 $MODULE 1PIN_S_SMD
-Po 200 96 0 0 51E571D7 51E42133 ~~
+Po 200 96 0 0 51E6A4E2 51E42133 ~~
 Li 1PIN_S_SMD
 Cd 1 pin SMD
 Kw DEV
@@ -5469,13 +5478,13 @@ T1 -0.01 -1.73 0 0 0 0.000001 M I 20 N "CONN_1"
 $PAD
 Sh "1" R 1.27 1.27 0 0 0
 Dr 0 0 0
-At SMD N 00540001
+At SMD N 00500001
 Ne 111 "P1"
 Po 0 0
 $EndPAD
 $EndMODULE 1PIN_S_SMD
 $MODULE 1PIN_S_SMD
-Po 197.5 96 0 0 51E571D1 51E42138 ~~
+Po 197.5 96 0 0 51E6A4F1 51E42138 ~~
 Li 1PIN_S_SMD
 Cd 1 pin SMD
 Kw DEV
@@ -5487,7 +5496,7 @@ T1 -0.01 -1.73 0 0 0 0.000001 M I 20 N "CONN_1"
 $PAD
 Sh "1" R 1.27 1.27 0 0 0
 Dr 0 0 0
-At SMD N 00540001
+At SMD N 00500001
 Ne 122 "P2"
 Po 0 0
 $EndPAD
